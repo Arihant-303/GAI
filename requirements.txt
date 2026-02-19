@@ -1,0 +1,15 @@
+ipykernel
+langchain_openai
+python-dotenv
+langchain-anthropic
+langchain-google-genai
+langchain-huggingface
+sentence-transformers
+streamlit
+email-validator
+langchain
+langchain-community
+grandalf
+pypdf
+bs4
+faiss-cpu
